@@ -1,0 +1,249 @@
+.parent{
+    /* border: solid 1px; */
+    height: 1000px;
+    width: 700px;
+    margin: auto;
+    border: none;
+}
+.fils{
+    display: flex;
+    border: none;
+
+}
+.petit-fils{
+    border: solid 1px;
+    width: 450px;
+    height: 1000px;
+    border-right: none;
+}
+.petite-fils{
+    border: solid 1px;
+    width: 250px;
+    height: 1000px;
+    background-color: rgba(3, 2, 77, 0.836);
+    border-left: none;
+
+}
+p{
+    font-size: 30px;
+    color: #fff;
+}
+span{
+    font-size:20px
+}
+.contact{
+    border: solid 1px;
+    height: 30px;
+    background-color: rgba(1, 3, 27, 0.596);
+    border: none;
+}
+.contact p{
+    font-size: 22px;
+    margin-top: -1px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.first{
+    font-size: 22px;
+    color: #fff;
+    margin-left: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.address{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+.phone{
+    font-size: 20px;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.mail{
+    font-size: 20px;
+    margin-top: -15px;
+    margin-left: 10px;
+
+}
+.compétences{
+    border: solid 1px;
+    height: 30px;
+    background-color: rgba(1, 3, 27, 0.596);
+    border: none;
+}
+.compétences p{
+    font-size: 22px;
+    margin-top: -1px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.compe{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.comp1{
+    border: solid 1px;
+    height: 5px;
+    width: 200px;
+    margin-top: -13px;
+    background-color: black;
+    margin-left: 10px;
+}
+.comp2{
+    /* margin-right: 80px; */
+    width: 130px;
+    height: 5px;
+    background-color: #fff;
+}
+.good{
+    margin-left: 170px;
+    margin-top: -3px;
+    font-size: 20px;
+}
+.comp{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px; 
+}
+.langue{
+    border: solid 1px;
+    height: 30px;
+    background-color: rgba(1, 3, 27, 0.596);
+    border: none; 
+}
+.langue p{
+    font-size: 22px;
+    margin-top: -1px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text1{
+    font-family: calibri;
+    font-size: 20px;
+    color: black;
+    margin-left: 10px;
+}
+.haut{
+    border: solid 1px;
+    width: 420px;
+    height: 32px;
+    color: black;
+    margin: auto;
+    border-left: none;
+    border-right: none;
+}
+.text2{
+    font-family: calibri;
+    font-size: 25px;
+    color: rgba(3, 2, 77, 0.836);
+    /* margin-left: 10px; */
+    margin-top: -1px;
+    font-weight: bold;
+
+}
+.bas{
+    border: solid 1px;
+    width: 420px;
+    color: black;
+    margin-top: -20px;
+    margin: auto;
+}
+.goody{
+    margin-left: 150px;
+    margin-top: -3px;
+    font-size: 20px;
+}
+.francais{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.francais1{
+    border: solid 1px;
+    height: 5px;
+    width: 200px;
+    margin-top: -13px;
+    background-color: black;
+    margin-left: 10px;
+}
+.francais2{
+    /* margin-right: 80px; */
+    width: 130px;
+    height: 5px;
+    background-color: #fff;
+}
+.yoruba{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.yoruba1{
+    border: solid 1px;
+    height: 5px;
+    width: 200px;
+    margin-top: -13px;
+    background-color: black;
+    margin-left: 10px;
+}
+.yoruba2{
+    /* margin-right: 80px; */
+    width: 130px;
+    height: 5px;
+    background-color: #fff;
+}
+.anglais{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.anglais1{
+    border: solid 1px;
+    height: 5px;
+    width: 200px;
+    margin-top: -13px;
+    background-color: black;
+    margin-left: 10px;
+}
+.anglais2{
+    /* margin-right: 80px; */
+    width: 80px;
+    height: 5px;
+    background-color: #fff;
+}
+.date{
+    display: flex;
+}
+.date1{
+    margin-top: 7px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: black;
+    font-family: calibri;
+
+}
+.option{
+    margin-top: 7px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    font-family: calibri;
+    
+}
+.spa{
+font-weight: 100;
+    
+}
+.inter{
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: calibri;
+}
+.sep{
+    height: 200px;
+}
